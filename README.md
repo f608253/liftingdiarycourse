@@ -1,5 +1,7 @@
 # Lifting Diary — Project Setup & Architecture Guide
 
+> **Branch Notice (`dashboard-page-updated`)**: In this branch, we use **Shadcn UI** for UI development. There are specific guidelines to follow when developing UI components and features for this application.
+
 A modern full-stack workout and fitness tracking web application built with **Next.js 16**, **React 19**, **Clerk Authentication**, **Neon Serverless Postgres**, and **Drizzle ORM**.
 
 ---
