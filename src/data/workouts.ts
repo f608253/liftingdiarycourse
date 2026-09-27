@@ -1,7 +1,6 @@
 import { db } from '@/db'
-import { workoutsTable, exercisesTable } from '@/db/schema'
+import { workoutsTable } from '@/db/schema'
 import { eq, and, gte, lte, desc } from 'drizzle-orm'
-import { format } from 'date-fns'
 
 export type Workout = {
   id: string
