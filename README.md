@@ -1,5 +1,16 @@
 # Lifting Diary — Project Setup & Architecture Guide
 
+# Links and Apps used for this project:
+# Udemy Course: https://capgemini.udemy.com/course/learn-claude-code/learn/lecture/52626733#overview
+
+# Clerk: https://dashboard.clerk.com/apps/app_3JqLcuMAhAkoB43NRaawkXfsI0i/instances/ins_3JqLd0fJtUCttax92ugfRijYF6L/users/user_3JqOz1MVeCyJ1FQCCGr723UbmWL?users_hiddenColumns=username%2Cphone_number
+
+# Neon DB - https://console.neon.tech/app/projects/icy-sky-63302933/branches/br-divine-mountain-b3u1ne1n/tables?database=neondb
+
+# Drizzle docs - https://orm.drizzle.team/docs/get-started/neon-new
+
+# Personal GH Repo - https://github.com/f608253/liftingdiarycourse/tree/master
+
 > **Branch Notice (`dashboard-page-updated`)**: In this branch, we use **Shadcn UI** for UI development. There are specific guidelines to follow when developing UI components and features for this application.
 
 A modern full-stack workout and fitness tracking web application built with **Next.js 16**, **React 19**, **Clerk Authentication**, **Neon Serverless Postgres**, and **Drizzle ORM**.

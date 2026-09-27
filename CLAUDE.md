@@ -16,7 +16,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `npx tsx src/index.ts` — run database seed/query test script
 
 - /docs/ui.md
-- /docs/data-fetching/.md
+- /doc/data-fetching.md
+- /docs/data-mutations.md
+- /docs/auth.md
 
 No test framework is configured yet.
 
